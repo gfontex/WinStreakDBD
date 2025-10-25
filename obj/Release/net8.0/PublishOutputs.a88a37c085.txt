@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\WinStreakCounterDBD.exe
+C:\Users\user\Desktop\WinStreakCounterDBD.dll
+C:\Users\user\Desktop\WinStreakCounterDBD.deps.json
+C:\Users\user\Desktop\WinStreakCounterDBD.runtimeconfig.json
+C:\Users\user\Desktop\WinStreakCounterDBD.pdb

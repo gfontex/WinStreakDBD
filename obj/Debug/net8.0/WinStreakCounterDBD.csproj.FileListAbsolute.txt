@@ -1,0 +1,14 @@
+C:\Users\user\Documents\WinStreakCounterDBD\obj\Debug\net8.0\WinStreakCounterDBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\WinStreakCounterDBD\obj\Debug\net8.0\WinStreakCounterDBD.AssemblyInfoInputs.cache
+C:\Users\user\Documents\WinStreakCounterDBD\obj\Debug\net8.0\WinStreakCounterDBD.AssemblyInfo.cs
+C:\Users\user\Documents\WinStreakCounterDBD\obj\Debug\net8.0\WinStreakCounterDBD.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\WinStreakCounterDBD\bin\Debug\net8.0\WinStreakCounterDBD.exe
+C:\Users\user\Documents\WinStreakCounterDBD\bin\Debug\net8.0\WinStreakCounterDBD.deps.json
+C:\Users\user\Documents\WinStreakCounterDBD\bin\Debug\net8.0\WinStreakCounterDBD.runtimeconfig.json
+C:\Users\user\Documents\WinStreakCounterDBD\bin\Debug\net8.0\WinStreakCounterDBD.dll
+C:\Users\user\Documents\WinStreakCounterDBD\bin\Debug\net8.0\WinStreakCounterDBD.pdb
+C:\Users\user\Documents\WinStreakCounterDBD\obj\Debug\net8.0\WinStreakCounterDBD.dll
+C:\Users\user\Documents\WinStreakCounterDBD\obj\Debug\net8.0\refint\WinStreakCounterDBD.dll
+C:\Users\user\Documents\WinStreakCounterDBD\obj\Debug\net8.0\WinStreakCounterDBD.pdb
+C:\Users\user\Documents\WinStreakCounterDBD\obj\Debug\net8.0\WinStreakCounterDBD.genruntimeconfig.cache
+C:\Users\user\Documents\WinStreakCounterDBD\obj\Debug\net8.0\ref\WinStreakCounterDBD.dll

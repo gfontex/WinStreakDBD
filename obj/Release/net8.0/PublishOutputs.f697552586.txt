@@ -1,0 +1,5 @@
+C:\Users\user\Documents\WinStreakCounterDBD\bin\Release\net8.0\publish\WinStreakCounterDBD.exe
+C:\Users\user\Documents\WinStreakCounterDBD\bin\Release\net8.0\publish\WinStreakCounterDBD.dll
+C:\Users\user\Documents\WinStreakCounterDBD\bin\Release\net8.0\publish\WinStreakCounterDBD.deps.json
+C:\Users\user\Documents\WinStreakCounterDBD\bin\Release\net8.0\publish\WinStreakCounterDBD.runtimeconfig.json
+C:\Users\user\Documents\WinStreakCounterDBD\bin\Release\net8.0\publish\WinStreakCounterDBD.pdb
